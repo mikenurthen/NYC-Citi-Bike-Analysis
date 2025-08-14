@@ -1,14 +1,14 @@
-# New York City Citi Bike Ride Analysis
+# New York Citi Bike Data Analysis
 
 ## Summary
-This Tableau visualization project involved analyzing data from the New York Citi Bike program to generate reports for city officials, aiming to improve program publicity and performance. By aggregating trip history logs and identifying unexpected phenomena, visualizations and dashboards will be created in Tableau to provide insights into ridership patterns, station popularity, and other relevant metrics.
+This Tableau visualization project involved analyzing data from the New York Citi Bike program to generate reports for city officials, aiming to improve program publicity and performance. By aggregating trip history logs and identifying unexpected phenomena, visualizations and dashboards were created in Tableau to provide insights into ridership patterns, bike station popularity, and other relevant metrics.
 
 [View My Tableau Dashboard Visualizations here](https://public.tableau.com/views/2023_Quadrimester1_Analysis/StoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Source:
-The Data that was used for this analysis was ride data from the Citi Bike Data webpage https://www.citibikenyc.com/system-data. The timeframe selected (January through April 2023, four months of data) aligns with the lesser-known term ["first quadrimester"](https://en.wikipedia.org/wiki/Calendar_year) of the year.
+The Data that was used for this analysis was ride data from the Citi Bike Data webpage (https://www.citibikenyc.com/system-data). The timeframe selected for analysis encompassed 4 months of data (January through April 2023, aligns with the lesser-known terminology of ["first quadrimester"](https://en.wikipedia.org/wiki/Calendar_year) of the year.
 
-Connections began by importing and performing a Union on the following files:<br/>
+Connections began by importing and performing a Union on the following csv files:<br/>
 JC-202301-citibike-tripdata.csv<br/>
 JC-202302-citibike-tripdata.csv<br/>
 JC-202303-citibike-tripdata.csv<br/>
